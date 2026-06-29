@@ -1,4 +1,4 @@
-# Technical Proposal: Add Azure Support to ZoneOutageScenarioPlugin
+# Add Azure Support to ZoneOutageScenarioPlugin
 
 ## Context
 
